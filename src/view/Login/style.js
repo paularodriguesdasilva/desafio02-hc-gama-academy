@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 
 export const Container = styled.div`
-  width: 50%;
+  width: auto;
   height: 50vh;
   margin: 0 auto;
   display: flex;
@@ -27,8 +27,8 @@ export const Container = styled.div`
     }
 
     button {
-      margin: 0 auto;
-      width: 40%;
+      /* margin: 0 auto; */
+      width: 300px;
       height: 30px;
       border-radius: 5px;
       border: 0;
@@ -53,7 +53,7 @@ export const LinkBack = styled(Link)`
   margin-top: 30px;
   background-color: #eeeeee;
   color: #334257;
-  width: 10%;
+  width: 150px;
   height: auto;
   padding: 5px;
   text-align: center;
