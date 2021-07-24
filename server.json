@@ -1,0 +1,75 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "iPhone",
+            "model": "7 32GB Preto Matte",
+            "image": "https://i.postimg.cc/RFjwx09y/iphone-7plus.png",
+            "price": "R$ 1519,00"
+        },
+        {
+            "id": "2",
+            "name": "iPhone",
+            "model": "6S 32GB Cinza especial",
+            "image": "https://images-americanas.b2w.io/produtos/105483001/imagens/usado-iphone-6s-32gb-cinza-espacial-delu/105483001_2_large.jpg",
+            "price": "R$ 969,00"
+        },
+        {
+            "id": "3",
+            "name": "iPhone",
+            "model": "11 Pro Max 512GB Prateado",
+            "image": "https://30232.cdn.simplo7.net/static/30232/sku/iphone-11-iphone-11-pro-max-iphone-11-pro-max-prata-com-tela-de-6-5-4g-51-gb-e-camera-de-12-mp-mwhf2bz-a--p-1611623304715.jpg",
+            "price": "R$ 7999,00"
+        },
+        {
+            "id": "4",
+            "name": "Samsung Galaxy",
+            "model": "Fold 512GB Preto",
+            "image": "https://http2.mlstatic.com/D_NQ_NP_647752-MLA42095075690_062020-O.jpg",
+            "price": "R$ 9169,00"
+        },
+        {
+            "id": "5",
+            "name": "Samsung Galaxy",
+            "model": "Note 20 256GB Bronze",
+            "image": "https://rebuystore.pt/wp-content/uploads/2021/01/samsung-galaxy-note20-bronze-02-rebuystore.jpg",
+            "price": "R$ 3019,00"
+            },
+            {
+            "id": "6",
+            "name": "Samsung Galaxy",
+            "model": "S10 128GB Azul",
+            "image": "https://images-shoptime.b2w.io/produtos/1237141282/imagens/smartphone-samsung-galaxy-s10-128gb-azul-usado-excelente-trocafone/1237141282_1_big.jpg",
+            "price": "R$ 1729,00"
+            },
+            {
+            "id": "7",
+            "name": "Motorola",
+            "model": "Moto G7 Plus 64GB Rubi",
+            "image": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-g7-plus-64gb-xt1965-rubi/casasertanejaeletro2/004856/479eb813653ef51101e3356b7c5c6538.jpg",
+            "price": "R$ 849,00"
+            },
+            {
+            "id": "8",
+            "name": "Motorola",
+            "model": "Moto Z2 Force 64GB Ônix",
+            "image": "https://i.zst.com.br/thumbs/12/6/12/193332703.jpg",
+            "price": "R$ 1109,00"
+            },
+            {
+            "id": "9",
+            "name": "Motorola",
+            "model": "One Hyper 128GB Azul Oceano",
+            "image": "https://brmotorolanew.vteximg.com.br/arquivos/ids/156315-700-700/Motorolaone-hyper-azul-oceano-2-foto-2.png?v=637457010550870000",
+            "price": "R$ 1379,00"
+            },
+            {
+            "id": "10",
+            "name": "Motorola",
+            "model": "Moto G9 Play 64GB Azul Safira",
+            "image": "https://med.csmobiles.com/193787-large_default/motorola-moto-g9-play-64gb-dual-sim-azul.jpg",
+            "price": "R$ 1119,00"
+            }
+            
+    ]
+}
